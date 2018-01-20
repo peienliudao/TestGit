@@ -15,5 +15,6 @@ public class MainActivity extends Activity {
         Log.i("SunChunYue--->", "AAA");
         ((TextView) findViewById(R.id.text)).setText("SunChunYue");
         //版本 2.0
+        //版本 2.1
     }
 }
