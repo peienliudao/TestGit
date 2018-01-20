@@ -16,5 +16,6 @@ public class MainActivity extends Activity {
         ((TextView) findViewById(R.id.text)).setText("SunChunYue");
         //版本 2.0
         //版本 2.1
+        //版本 2.2
     }
 }
