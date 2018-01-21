@@ -17,5 +17,6 @@ public class MainActivity extends Activity {
         //版本 2.0
         //版本 2.1
         //版本 2.2
+        //创建branch02，并且合并到master
     }
 }
