@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //修改文件之后的提交
+        //
 
         Log.i("SunChunYue--->", "AAA");
         ((TextView) findViewById(R.id.text)).setText("SunChunYue");
