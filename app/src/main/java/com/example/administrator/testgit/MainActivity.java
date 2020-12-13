@@ -17,11 +17,12 @@ public class MainActivity extends Activity {
         //
 
         Log.i("SunChunYue--->", "AAA");
-        ((TextView) findViewById(R.id.text)).setText("SunChunYue");
+        ((TextView) findViewById(R.id.text)).setText("张诚");
         //版本 2.0
         //版本 2.1
         //创建branch02，并且合并到master
         //Test 2018/1224/1917
+
 
     }
 }
